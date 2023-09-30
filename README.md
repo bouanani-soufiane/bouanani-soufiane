@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm bouanani soufiane</h1>
-<h3 align="center">A passionate fullstack developer from Morocco</h3>
+<p align="center">A passionate fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" style="vertical-align: middle;">  from Morocco</p>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
