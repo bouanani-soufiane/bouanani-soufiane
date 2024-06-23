@@ -26,19 +26,52 @@ Other        10 min          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<div>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-</div>
+<h3 align="left">Languages, Database, Tools</h3>
+<p>
+  <a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+   <a href="https://gradle.org">
+    <img src="https://skillicons.dev/icons?i=gradle" />
+  </a>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://redis.io">
+    <img src="https://skillicons.dev/icons?i=redis" />
+  </a>
+  <a href="https://www.mongodb.com">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+   <a href="https://go.dev">
+    <img src="https://skillicons.dev/icons?i=angular" />
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://www.javascript.com">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+   <a href="https://go.dev">
+    <img src="https://skillicons.dev/icons?i=vim" />
+  </a>
+ <a href="https://go.dev">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="https://go.dev">
+    <img src="https://skillicons.dev/icons?i=arch" />
+  </a>
+</p>
+
+<hr/>
 
 <br/>
 
