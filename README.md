@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm bouanani soufiane</h1>
+<h1 align="left">Hi, I'm Bouanani Soufiane
+<img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="50" height="60" align="center"  alt="cat"/>
+</h1>
 <p align="center">A passionate fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" style="vertical-align: middle;">  from Morocco</p>
 
 <p align="center">
