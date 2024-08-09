@@ -82,7 +82,7 @@ Other        10 min          ░░░░░░░░░░░░░░░░░
 
 - 🌱 I’m currently learning **java**
 
-- 📫 How to reach me **soufian.bouanani2013@gmail.com**
+- 📫 How to reach me **bouananisfn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
